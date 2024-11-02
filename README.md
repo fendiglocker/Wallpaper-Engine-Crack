@@ -1,7 +1,6 @@
 Using the app Wallpaper Engine can literally bring your desktop to life. This software allows you to replace static desktop wallpapers with animated ones. Among the supported formats, there are both 3D and 2D animations, as well as websites and video streams. Thanks to a wide range of settings, Wallpaper Engine can be configured to work on a widescreen monitor or to work on two monitors. In any case, the task of this program is the same: to allow you to install wallpapers on your Windows desktop.
 
-![Uploading Screenshot_9.png…]()
-
+![Screenshot_9](https://github.com/user-attachments/assets/6a85e600-dab7-47f2-93db-bd693859e15d)
 
 Wallpaper Engine
 Wallpaper Engine
